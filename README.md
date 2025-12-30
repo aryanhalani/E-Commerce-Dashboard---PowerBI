@@ -9,6 +9,13 @@ This project analyzes sales data to find trends, revenue, and top-performing pro
 - Monthly sales trend
 - Top 5 products
 - Region-wise performance
+  ##  Python Analysis (Jupyter Notebook)
+- File: `sales_analysis.ipynb`
+- Libraries used: pandas, numpy, matplotlib
+- Work done:
+  - Data cleaning
+  - Data analysis
+  - Visualization
   ## 📁 Files Included
 - Dataset (CSV)
 - Power BI Dashboard
